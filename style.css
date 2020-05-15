@@ -121,6 +121,10 @@ h2{
 }
 
 @media (max-width:394px) {
+    
+    h1
+    { font-family: "Times New Roman", Times, serif;
+    }
     .mobile-resize{
     text-align: center;
 }
