@@ -127,6 +127,12 @@ h2{
     { font-family: "Times New Roman", Times, serif;
         font-size:1.5rem;
     }
+    
+    .card{
+        
+        width:100% !important;
+    }
+    
     .mobile-resize{
     text-align: center;
 }
