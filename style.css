@@ -11,7 +11,7 @@
 }
 
 h1{
-     font-family: 'Montserrat-black';
+     font-family: 'Montserrat-black',serif;
      font-size: 2.5rem;
      color:#101011;
 }
@@ -124,6 +124,7 @@ h2{
     
     h1
     { font-family: "Times New Roman", Times, serif;
+        font-size:1.5rem;
     }
     .mobile-resize{
     text-align: center;
